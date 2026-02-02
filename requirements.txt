@@ -1,9 +1,4 @@
 streamlit
+pymongo
+dnspython
 pandas
-numpy
-matplotlib
-seaborn
-scikit-learn
-google-generativeai
-python-dotenv
-# Add only specific libraries you imported (e.g., pillow if handling images)
